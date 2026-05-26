@@ -1,3 +1,6 @@
+<img width="1080" height="304" alt="ezgif-6d38c41225378582" src="https://github.com/user-attachments/assets/fe9ccd5c-c346-4180-a1b2-c124048386e2" />
+
+<h2 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Firman. i write code, break stuff, fix it, repeat.</h2>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gwfirman) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gw_firman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/firman-zamzami-aziz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello@gwfirman.my.id) 
