@@ -10,14 +10,14 @@
 ### 🌐 Languages & Core
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,ts,go,php,py,bash" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=html,js,ts,go,php,py" alt="Languages" />
   </a>
 </p>
 
 ### 🚀 Frameworks & Libraries
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,nodejs,express,fastapi,laravel,symfony,tailwindcss,vite,webpack,pnpm,chartjs" alt="Frameworks and Libraries" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,nodejs,express,fastapi,laravel,tailwindcss,vite,webpack" alt="Frameworks and Libraries" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 ### ☁️ Cloud & DevOps
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,firebase,vercel" alt="Cloud and DevOps" />
+    <img src="https://skillicons.dev/icons?i=azure,gcp,cloudflare,firebase,vercel" alt="Cloud and DevOps" />
   </a>
 </p>
 
