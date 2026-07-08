@@ -1,5 +1,6 @@
 ##  Part-time software engineer, full-time learner.
 
+### Right now, I'm focusing on implementing AI in software.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <p align="center">
