@@ -30,9 +30,9 @@
       <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub><br/>
       <sub>🌐 Website: <a href="https://cetha.kurawal.space">cetha.kurawal.space</a></sub><br/>
       <sub>🏆 Achievements:</sub><br/>
-      <sub>• <a href="https://drive.google.com/file/d/15s8I8GO5Ik_R2SlYIltbkrbK5z1Ipy7l/view?usp=sharing">🥇 1st Place at FIK Tech National Web Development Competition 2025</a></sub><br/>
-      <sub>• <a href="https://drive.google.com/file/d/15s8I8GO5Ik_R2SlYIltbkrbK5z1Ipy7l/view?usp=sharing">🥈 2nd Place at UINIC National Web Development Competition 2025</a></sub><br/>
-      <sub>• <a href="https://drive.google.com/file/d/15s8I8GO5Ik_R2SlYIltbkrbK5z1Ipy7l/view?usp=sharing">🥈 2nd Place at PROXOCORIS National Web Development Competition 2026</a></sub>
+      <sub>• 🥇 1st Place at FIK Tech National Web Development Competition 2025</sub><br/>
+      <sub>• <a href="https://drive.google.com/file/d/1xqmp6j2iCmWQ73xLdZWk3LwpBXFwp8b7/view?usp=sharing">🥈 2nd Place at UINIC National Web Development Competition 2025</a></sub><br/>
+      <sub>• <a href="https://drive.google.com/file/d/1lDP7WoqWCvVb8GEaf0-AkOo0o-cLm2Xd/view?usp=sharing">🥈 3rd Place at PROXOCORIS National Web Development Competition 2026</a></sub>
     </td>
   </tr>
   
@@ -46,7 +46,7 @@
       <strong>(Competition Case Study)</strong><br/>
       <sub>An intelligent full-stack platform designed to identify Indonesian herbal plants and provide educational insights using AI workflows.</sub><br/>
       <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub><br/>
-      <sub>🏆 Achievement: <a href="https://drive.google.com/file/d/15s8I8GO5Ik_R2SlYIltbkrbK5z1Ipy7l/view?usp=sharing">🥈 2nd Place at Software Engineering Competition (SECOMP) Telkom University 2025</a></sub>
+      <sub>🏆 Achievement: <a href="https://drive.google.com/file/d/1Z_ggHdTkYMW2mC4PA5vqnYxNxB2Y312e/view?usp=sharing">🥈 2nd Place at Software Engineering Competition (SECOMP) Telkom University 2025</a></sub>
     </td>
   </tr>
 </table>
