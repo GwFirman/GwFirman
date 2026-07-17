@@ -1,6 +1,6 @@
 ##  Part-time software engineer, full-time learner.
 
-### Featured Projects
+### Featured Projects 🥇🥈🥉
 
 <table>
   <!-- PROJECT 1: KREDLY -->
@@ -10,8 +10,11 @@
     </td>
     <td valign="middle">
       <strong><a href="https://gwfirman.my.id/projects/kredly">Kredly: Adaptive Testing Platform with Blockchain Certification</a></strong><br/>
+      <strong>(Competition Case Study)</strong><br/>
       <sub>An adaptive examination platform tailored to candidates' CVs, featuring secure, tamper-proof blockchain certification.</sub><br/>
-      <sub>Website: <a href="https://kredlyy.vercel.app">kredlyy.vercel.app</a></sub>
+      <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub><br/>
+      <sub>🌐 Website: <a href="https://kredlyy.vercel.app">kredlyy.vercel.app</a></sub><br/>
+      <sub>🏆 Achievement: <a href="https://drive.google.com/file/d/15s8I8GO5Ik_R2SlYIltbkrbK5z1Ipy7l/view?usp=sharing">🥇 1st Place at ITFAIR National Hackathon 2026</a></sub>      
     </td>
   </tr>
   
@@ -22,8 +25,14 @@
     </td>
     <td valign="middle">
       <strong><a href="https://gwfirman.my.id/projects/cetha">Cetha: Smart CV Screening & Job Matching Platform</a></strong><br/>
-      <sub>An AI-driven platform that analyzes CVs to help applicants pass recruiters' screening and provides personalized job recommendations.</sub><br/>
-      <sub>Website: <a href="https://cetha.kurawal.space">cetha.kurawal.space</a></sub>
+      <strong>(Competition Case Study)</strong><br/>
+      <sub>An AI-driven platform that analyzes CVs to bypass recruiter screening and delivers personalized job recommendations.</sub><br/>
+      <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub><br/>
+      <sub>🌐 Website: <a href="https://cetha.kurawal.space">cetha.kurawal.space</a></sub><br/>
+      <sub>🏆 Achievements:</sub><br/>
+      <sub>• <a href="https://drive.google.com/file/d/15s8I8GO5Ik_R2SlYIltbkrbK5z1Ipy7l/view?usp=sharing">🥇 1st Place at FIK Tech National Web Development Competition 2025</a></sub><br/>
+      <sub>• <a href="https://drive.google.com/file/d/15s8I8GO5Ik_R2SlYIltbkrbK5z1Ipy7l/view?usp=sharing">🥈 2nd Place at UINIC National Web Development Competition 2025</a></sub><br/>
+      <sub>• <a href="https://drive.google.com/file/d/15s8I8GO5Ik_R2SlYIltbkrbK5z1Ipy7l/view?usp=sharing">🥈 2nd Place at PROXOCORIS National Web Development Competition 2026</a></sub>
     </td>
   </tr>
   
@@ -34,7 +43,10 @@
     </td>
     <td valign="middle">
       <strong><a href="https://gwfirman.my.id/projects/daunesia">Daunesia: Herbal Plant Identification & Education</a></strong><br/>
-      <sub>An intelligent platform designed to identify various Indonesian herbal plants and provide educational insights about their benefits.</sub><br/>
+      <strong>(Competition Case Study)</strong><br/>
+      <sub>An intelligent full-stack platform designed to identify Indonesian herbal plants and provide educational insights using AI workflows.</sub><br/>
+      <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub><br/>
+      <sub>🏆 Achievement: <a href="https://drive.google.com/file/d/15s8I8GO5Ik_R2SlYIltbkrbK5z1Ipy7l/view?usp=sharing">🥈 2nd Place at Software Engineering Competition (SECOMP) Telkom University 2025</a></sub>
     </td>
   </tr>
 </table>
