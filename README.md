@@ -1,5 +1,7 @@
 ##  Part-time software engineer, full-time learner.
 
+[![Open to Work](https://img.shields.io/badge/Open_to_Work-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://cal.com/firmanaziz)
+
 ### Featured Projects 🥇🥈🥉
 
 <table>
