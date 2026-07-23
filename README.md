@@ -15,7 +15,7 @@
       <strong>(Competition Case Study)</strong><br/>
       <sub>An adaptive examination platform tailored to candidates' CVs, featuring secure, tamper-proof blockchain certification.</sub><br/>
       <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub><br/>
-      <sub>🌐 Website: <a href="https://kredlyy.vercel.app">kredlyy.vercel.app</a></sub><br/>
+      <sub>🌐 Website: <a href="https://kredlyy.vercel.app">firmanaziz.dev/kredly</a></sub><br/>
       <sub>🏆 Achievement: <a href="https://drive.google.com/file/d/15s8I8GO5Ik_R2SlYIltbkrbK5z1Ipy7l/view?usp=sharing">🥇 1st Place at ITFAIR National Hackathon 2026</a></sub>      
     </td>
   </tr>
@@ -30,7 +30,7 @@
       <strong>(Competition Case Study)</strong><br/>
       <sub>An AI-driven platform that analyzes CVs to bypass recruiter screening and delivers personalized job recommendations.</sub><br/>
       <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub><br/>
-      <sub>🌐 Website: <a href="https://cetha.kurawal.space">cetha.kurawal.space</a></sub><br/>
+      <sub>🌐 Website: <a href="https://cetha.kurawal.space">firmanaziz.dev/cetha</a></sub><br/>
       <sub>🏆 Achievements:</sub><br/>
       <sub>• 🥇 1st Place at FIK Tech National Web Development Competition 2025</sub><br/>
       <sub>• <a href="https://drive.google.com/file/d/1xqmp6j2iCmWQ73xLdZWk3LwpBXFwp8b7/view?usp=sharing">🥈 2nd Place at UINIC National Web Development Competition 2025</a></sub><br/>
